@@ -1,0 +1,1 @@
+Date: 1.23.25 - Learned about flaskr and installed all necessary components.
